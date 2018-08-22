@@ -1,1 +1,0 @@
-openjeju-global
